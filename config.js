@@ -69,26 +69,23 @@ const CONFIG = {
 			icon: 'hard-drive',
 			link: 'https://drive.google.com/drive/home',
 		},
-	],
-
-	secondButtonsContainer: [
 		{
-			id: '1',
-			name: 'Music',
+			id: '4',
+			name: 'Spotify',
 			icon: 'headphones',
 			link: 'https://open.spotify.com',
 		},
 		{
-			id: '2',
-			name: 'twitter',
-			icon: 'twitter',
-			link: 'https://twitter.com/',
-		},
-		{
-			id: '3',
+			id: '5',
 			name: 'YouTube',
 			icon: 'youtube',
-			link: 'https://www.youtube.com/',
+			link: 'https://www.youtube.com',
+		},
+		{
+			id: '6',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/',
 		},
 	],
 
