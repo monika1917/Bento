@@ -77,9 +77,9 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'YouTube',
-			icon: 'youtube',
-			link: 'https://www.youtube.com',
+			name: 'Discord',
+			icon: 'message-square-more',
+			link: 'https://discord.com/channels/@me',
 		},
 		{
 			id: '6',
